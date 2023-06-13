@@ -7,3 +7,8 @@
 footer p{
     color: burlywood;
 }
+
+.container{
+    margin: 0 auto;
+    max-width: 80%;
+}
